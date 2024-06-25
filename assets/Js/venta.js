@@ -7,7 +7,7 @@
             direccion: '123 Luxury Lane, Prestige Suburb, CA 45678',
             habitaciones: 4,
             baño: 4,
-            precio: 255.000,
+            precio: '255.000',
             smoke: false,
             pets: false 
         },
@@ -18,7 +18,7 @@
             direccion: '789 Mountain Road,Summit Peaks, CA 23456',
             habitaciones: 2,
             baño: 1,
-            precio: 120.000,
+            precio: '120.000',
             smoke: true,
             pets: true
         },
@@ -29,7 +29,7 @@
             direccion: '567 Skyline Avenue, Skyview City, CA 56789',
             habitaciones: 3,
             baño: 3,
-            precio: 450.000,
+            precio: '450.000',
             smoke: false,
             pets: true
         },
@@ -40,7 +40,7 @@
             direccion: '123 Michigan Avenue, Los Angeles, CA 56789',
             habitaciones: 2,
             baño: 2,
-            precio: 550.000,
+            precio: '550.000',
             smoke: false,
             pets: false
         }
