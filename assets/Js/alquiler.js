@@ -8,7 +8,7 @@
         direccion: '123 Main Street, Anytown, CA 91234',
         habitaciones: 2,
         baño: 2,
-        precio: 2.500,
+        precio: '2.500',
         smoke: false,
         pets: true
     },
@@ -19,7 +19,7 @@
         direccion: '456 Ocean Avenue,Seaside Town, CA 56789',
         habitaciones: 3,
         baño: 3,
-        precio: 2.500,
+        precio: '2.500',
         smoke: true,
         pets: true
     },
@@ -30,7 +30,7 @@
         direccion: '123 Main Street,  Anytown, CA 91234',
         habitaciones: 2,
         baño: 2,
-        precio: 2.200,
+        precio: '2.200',
         smoke: false,
         pets: false
     },
